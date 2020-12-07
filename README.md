@@ -5,7 +5,7 @@ The format is for yolov5.
 
 Each row represents a bounding box.
 
-*class x-center y-center width height*
+***class x-center y-center width height*
 
 ## Class label reference 
 
